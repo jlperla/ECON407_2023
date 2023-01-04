@@ -7,6 +7,8 @@ This is a trial of the new course [**ECON 408: Computational Methods in Macroeco
 
 Note that unlike the listed ECON407, it is not mandatory to have ECON302 and ECON303 - but the programming and linear algebra requirements are essential.
 
+But don't be scared off by the programming requirement!  Relative to many classes, the coding will be kept simple - just beyond the level of Stata/R.  The hard part will be the economic theory.
+
 ## Course Materials
 - Consider selecting `Watch` at the top of this repository to be alerted to all file changes
 - Since you will need to setup VS Code on your computer, you may find it easiest to clone this repository using [VS Code](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette) directly.
