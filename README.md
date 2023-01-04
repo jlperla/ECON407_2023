@@ -24,7 +24,7 @@ Note that the midterm is the day after spring-break and cannot be moved as it re
 ## Lectures
 The first few weeks will introduce Julia, and then we will move on to the core topics of the course which will be a combination of theory and computational examples.
 1. **January 9th** - Introduction, course overview, VSCode and [Julia Overview](https://julia.quantecon.org/getting_started_julia/getting_started.html)
-2. **January 11th** - [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html)  and [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html)
+2. **January 11th** - [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html)  and parts of [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
 3. **January 16th** -
 4. **January 18th** -
 5. **January 23rd** -
