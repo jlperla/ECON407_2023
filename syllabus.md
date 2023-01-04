@@ -4,6 +4,9 @@
 **(3 credits course)** Computational tools used in macroeconomics and financial economics including applications to unemployment, inequality, asset pricing, and economic growth
 **Prerequisites:** One of ECON 301, ECON 304, ECON 308 and one of ECON 323, CPSC 103, CPSC 110, MATH 210, COMM 337 and one of MATH 221, MATH 223.
 
+- **Instructor:** jesse.perla@ubc.ca
+  - **Office Hours:** 9:15am-10:30am Fridays in IONA 206
+  - **Class Location**: IONA 633 M/W 10-11:30am
 ## Course Overview
 
 This is a course in computational tools used in macroeconomics.  You are expected to have some proficiency in Matlab, Python, Julia, and similar languages as fulfilled in the prerequisites (i.e., ECON 323, CPSC 103, CPSC 110, MATH 210, COMM 337).  Even intermediate knowledge of R is typically not sufficient.

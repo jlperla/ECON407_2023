@@ -1,5 +1,5 @@
 # ECON407 Spring 2023
-This course is a trial of the new course [**ECON 408: Computational Methods in Macroeconomics**](syllabus.md), temporarily using the ECON 407 course code.
+This is a trial of the new course [**ECON 408: Computational Methods in Macroeconomics**](syllabus.md), temporarily using the ECON 407 course code.
 
 **(3 credits course)** Computational tools used in macroeconomics and financial economics including applications to unemployment, inequality, asset pricing, and economic growth
 
