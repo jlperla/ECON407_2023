@@ -1,12 +1,16 @@
 
-## ECON 408: Computational Methods in Macroeconomics**
+## ECON 407/408: Computational Methods in Macroeconomics
+
 
 **(3 credits course)** Computational tools used in macroeconomics and financial economics including applications to unemployment, inequality, asset pricing, and economic growth
+
 **Prerequisites:** One of ECON 301, ECON 304, ECON 308 and one of ECON 323, CPSC 103, CPSC 110, MATH 210, COMM 337 and one of MATH 221, MATH 223.
 
-- **Instructor:** jesse.perla@ubc.ca
+**Instructor:** jesse.perla@ubc.ca
+
   - **Office Hours:** 9:15am-10:30am Fridays in IONA 206
   - **Class Location**: IONA 633 M/W 10-11:30am
+  
 ## Course Overview
 
 This is a course in computational tools used in macroeconomics.  You are expected to have some proficiency in Matlab, Python, Julia, and similar languages as fulfilled in the prerequisites (i.e., ECON 323, CPSC 103, CPSC 110, MATH 210, COMM 337).  Even intermediate knowledge of R is typically not sufficient.
@@ -41,16 +45,19 @@ By the end of the course, you will be able to
 7. define and implement dynamic models of growth
 
 ## Textbook and Materials
+
 The core textbook is the online, open-source textbook [Quantitative Economics with Julia](https://julia.quantecon.org/) by Jesse Perla, Thomas J. Sargent and John Stachurski which contains both graduate- and undergraduate-level material.  In cases where material in the course is too advanced, we will choose a subset and adapt lecture materials to be appropriate for the level.
 
 The textbook includes both theory and code, and a set of [Jupyter notebooks](https://github.com/QuantEcon/lecture-julia.notebooks).
 
 ## Course Format
+
 The course will meet for two 1.5 hours lectures per week for an in-class lecture. While there will not be a formal "lab", the instructor may go through coding examples in class.
 
 After the first few weeks the lectures will tend to focus on teaching the theory where code implementations done largely in the assignments.  At that point, much of the coding practice will be done in the problem sets, leaving most class-time for connecting the macroeconomic models to the methods.
 
 ## Assignments and Assessment
+
 The only way to learn how to apply programming to economic problems is practice. To aid this, a significant portion of the assessment will be in the form of problem sets.
 
 The midterm and final will be in class and combine both theory and computations, with the exam submitted via a Jupyter notebook.
@@ -66,6 +73,7 @@ The midterm examinations will be done in a computer lab and contain a mixture of
 The problem sets will start off short and easy to help those with less programming experience, and then build in complexity.
 
 ## Computational Infrastructure and Programming Language
+
 While you will have experience with another programming language such as Python or Matlab from your prerequisites, this course will be taught using [Julia](https://julialang.org/).  Beyond being an excellent language for technical computing and popular among macroeconomists, Julia provides a new set of programming principles that will broaden the your knowledge of computing.  This will help you by both providing a better differentiated resume, broader skills, and more opportunities to work as a research assistant for researchers requiring significant computational expertise.
 
 You can install Julia on your laptop by following [these instructions](https://julia.quantecon.org/getting_started_julia/getting_started.html).  While one can use Julia entirely from just Jupyter notebook, we will also introduce basic [GitHub](https://github.com/) and [VS Code](https://code.visualstudio.com/) usage as well to help broaden your exposure to computational tools.
@@ -144,6 +152,7 @@ We will cover the following topics, with the later topics only if time-permits.
 
   - Topics include [Cass Koopmans Planning Problem](https://julia.quantecon.org/multi_agent_models/cass_koopmans_1.html)
   - At the end of the section you will be able to solve for the transition dynamics of the planning problem for the Cass Koopmans/neoclassical growth model.
+  
 <!--
 ### Week 15: Optimal Growth Model (LO7)
 
@@ -151,6 +160,7 @@ We will cover the following topics, with the later topics only if time-permits.
   - At the end of the section you will be able to solve growth models with a single type of good and stochastic productivity.
   - **Problem Set 6 Due** - solving stochastic dynamic programming and simulating  transition dynamics of growth models.
 --> 
+
 ## Policies
 
 **Missed Exam Policy:** You are responsible for ensuring that you take these exams as scheduled; no make-up exams will be given.
