@@ -17,15 +17,18 @@ But don't be scared off by the programming requirement!  Relative to many classe
 See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
+1. **Due Midnight PST on January 15th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). Basically just setup and a trivial notebook.
 1. February 27th:  **MIDTERM EXAM**
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
+Problem sets that involve code are submitted on Canvas by the deadline as both an executed Jupyter notebook (`.ipynb`) and a rendered HTML or PDF file.  To save as HTML or PDF, you can use the `File` menu in Jupyter Lab or choose `Export` for the built-in VS Code.  Problem sets that are a mixture of code and theory should be submitted as a combined PDF with both.  You do not need to type your equations in latex, but you should make the handwritten equations clear.
+
 ## Lectures
 The first few weeks will introduce Julia, and then we will move on to the core topics of the course which will be a combination of theory and computational examples.
 1. **January 9th** - Introduction, course overview, VSCode and [Julia Overview](https://julia.quantecon.org/getting_started_julia/getting_started.html)
-2. **January 11th** - [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html)  and parts of [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
-3. **January 16th** -
+2. **January 11th** - [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) and parts of [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
+3. **January 16th** - Review setup/questions and continue on [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
 4. **January 18th** -
 5. **January 23rd** -
 6. **January 25th** -
