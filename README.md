@@ -12,6 +12,7 @@ But don't be scared off by the programming requirement!  Relative to many classe
 ## Course Materials
 - Consider selecting `Watch` at the top of this repository to be alerted to all file changes
 - Since you will need to setup VS Code on your computer, you may find it easiest to clone this repository using [VS Code](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette) directly.
+- I strongly suggest signing up for GitHub's [student developer pack](https://education.github.com/pack) which gives you lots of free stuff (and even access to the AI [GitHub Copilot](https://docs.github.com/en/copilot/quickstart) )
 
 ## Syllabus
 See [here](syllabus.md) for more details
