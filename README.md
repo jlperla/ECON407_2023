@@ -27,10 +27,10 @@ Problem sets that involve code are submitted on Canvas by the deadline as both a
 
 ## Lectures
 The first few weeks will introduce Julia, and then we will move on to the core topics of the course which will be a combination of theory and computational examples.
-1. **January 9th** - Introduction, course overview, VSCode and [Julia Overview](https://julia.quantecon.org/getting_started_julia/getting_started.html)
-2. **January 11th** - [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) and parts of [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
-3. **January 16th** - Review setup/questions and continue on [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
-4. **January 18th** -
+1. **January 9th** - Introduction, course overview, VSCode and [Julia Overview](https://julia.quantecon.org/getting_started_julia/getting_started.html) and start of [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html)
+2. **January 11th** - [Introductory examples/fixed point problems](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) including examples from linear-asset pricing
+3. **January 16th** - Finish [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) with some in [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
+4. **January 18th** - Finish off remainder of Julia overview and move to [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html)
 5. **January 23rd** -
 6. **January 25th** -
 7. **January 30th** -
