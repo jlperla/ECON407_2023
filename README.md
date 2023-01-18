@@ -19,7 +19,8 @@ See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 15th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). Basically just setup and a trivial notebook.
-1. February 27th:  **MIDTERM EXAM**
+3. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf). Variations on the Geometric Series Code and some simulations.
+3. February 27th:  **MIDTERM EXAM**
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
@@ -31,7 +32,7 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 2. **January 11th** - [Introductory examples/fixed point problems](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) including examples from linear-asset pricing
 3. **January 16th** - Finish [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) with some in [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
 4. **January 18th** - Finish off remainder of Julia overview and move to [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html)
-5. **January 23rd** -
+5. **January 23rd** - Finish [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html), a little more on fixed-points, and start [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html)
 6. **January 25th** -
 7. **January 30th** -
 8. **February 1st** -
