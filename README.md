@@ -25,11 +25,13 @@ See [here](syllabus.md) for more details
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
 Problem sets that involve code are submitted on Canvasby the deadline:
-1. Submit the Jupyter notebook (`.ipynb`)
-2. Also submit a rendered HTML or PDF file.
-  - To save as HTML or PDF, you can use the `File` menu in Jupyter Lab or choose `Export` for the built-in VS Code.
-3. Problem sets that are a mixture of code and theory should be submitted as a combined PDF with both.  You do not need to type your equations in latex, but you should make the handwritten equations clear.
-4. Make sure to put your name on the ipynb and pdf/html files so that we can keep track of them if we download all students in the same directly.  For the naming convention: "FIRST_LAST_ASSIGNMENT_0.ipynb` or something like that works best
+1. Submit a **both** the **executed** Jupyter notebook (`.ipynb`) and a rendered HTML or PDF file.
+   - To save as HTML or PDF, you can use the `File` menu in Jupyter Lab or choose `Export` for the built-in VS Code.
+  
+3. Problem sets that are a mixture of code and theory should be submitted as a combined PDF with both.
+   - You do not need to type your equations in latex, but you should make the handwritten equations clear.
+4. Make sure to put your name on the ipynb and pdf/html files so that we can keep track of them if we download all students in the same directly.
+     - For the naming convention: "FIRST_LAST_ASSIGNMENT_0.ipynb` or something like that works best
 
 ## Lectures
 The first few weeks will introduce Julia, and then we will move on to the core topics of the course which will be a combination of theory and computational examples.
@@ -38,10 +40,10 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 3. **January 16th** - Finish [Introductory Examples](https://julia.quantecon.org/getting_started_julia/julia_by_example.html) with some in [Essentials](https://julia.quantecon.org/getting_started_julia/julia_essentials.html) and [Fundamental Types](https://julia.quantecon.org/getting_started_julia/fundamental_types.html)
 4. **January 18th** - Finish off remainder of Julia overview and move to [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html)
 5. **January 23rd** - Finish [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html), a little more on fixed-points, and start [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html)
-6. **January 25th** -
-7. **January 30th** -
-8. **February 1st** -
-9. **February 6th** -
+6. **January 25th** - FInished [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html) and started [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html)
+7. **January 30th** -  [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html) and [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
+8. **February 1st** -  Review PS1 and some practice problems
+9. **February 6th** - Finish [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
 10. **February 8th** -
 11. **February 13th** -
 12. **February 15th** -

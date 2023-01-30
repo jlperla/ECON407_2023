@@ -93,15 +93,15 @@ We will cover the following topics, with the later topics only if time-permits.
    - Interested students can review bonus material in [Generic Programming](https://julia.quantecon.org/getting_started_julia/introduction_to_types.html) but it wouldn't be required or tested.
    - At the end of the section you will feel comfortable working with matrices, vectors, and arrays; solving linear systems and calculating eigenvalues; optimizing unconstrained and constrained functions; and solving systems of equations.
 
-### Geometric Series and Stochastic Processes
+### Geometric Series and Discrete Time Dynamics
 
   - Topics include [Geometric Series](https://julia.quantecon.org/tools_and_techniques/geom_series.html) and [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html)
-  - At the end of the section you will understand how to calculate present discounted values, work with Keynesian money-multipliers, and simulating random processes.
+  - At the end of the section you will understand how to calculate present discounted values, work with Keynesian money-multipliers, and fixed points of dynamic Models.
 
-### Dynamics of Wealth and Distributions
+### Stochastic Processes and Dynamics of Wealth and Distributions
 
   - Topics include [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html) and [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
-  - At the end of the section you will better understand ergodic distributions, measures of inequality, and how to simulate the dynamics of the wealth distribution.
+  - At the end of the section you will better ergodic distributions, measures of inequality, and how to simulate the dynamics of the wealth distribution.
 
 ### Linear State Space Models
 
