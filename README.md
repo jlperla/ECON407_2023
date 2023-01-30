@@ -24,7 +24,12 @@ See [here](syllabus.md) for more details
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
-Problem sets that involve code are submitted on Canvas by the deadline as both an executed Jupyter notebook (`.ipynb`) and a rendered HTML or PDF file.  To save as HTML or PDF, you can use the `File` menu in Jupyter Lab or choose `Export` for the built-in VS Code.  Problem sets that are a mixture of code and theory should be submitted as a combined PDF with both.  You do not need to type your equations in latex, but you should make the handwritten equations clear.
+Problem sets that involve code are submitted on Canvasby the deadline:
+1. Submit the Jupyter notebook (`.ipynb`)
+2. Also submit a rendered HTML or PDF file.
+  - To save as HTML or PDF, you can use the `File` menu in Jupyter Lab or choose `Export` for the built-in VS Code.
+3. Problem sets that are a mixture of code and theory should be submitted as a combined PDF with both.  You do not need to type your equations in latex, but you should make the handwritten equations clear.
+4. Make sure to put your name on the ipynb and pdf/html files so that we can keep track of them if we download all students in the same directly.  For the naming convention: "FIRST_LAST_ASSIGNMENT_0.ipynb` or something like that works best
 
 ## Lectures
 The first few weeks will introduce Julia, and then we will move on to the core topics of the course which will be a combination of theory and computational examples.
