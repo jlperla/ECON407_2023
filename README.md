@@ -19,8 +19,9 @@ See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 15th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). Basically just setup and a trivial notebook.
-3. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf). Variations on the Geometric Series Code and some simulations.
-3. February 27th:  **MIDTERM EXAM**
+2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf). Variations on the Geometric Series Code and some simulations.
+3. **Due Midnight PST on February 7th** - [Problem Set 2](/problem_sets/problem_set_2.html)
+4. February 27th:  **MIDTERM EXAM**
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
@@ -42,9 +43,9 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 5. **January 23rd** - Finish [Geometric Series/Money Multiplier Model](https://julia.quantecon.org/tools_and_techniques/geom_series.html), a little more on fixed-points, and start [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html)
 6. **January 25th** - FInished [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html) and started [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html)
 7. **January 30th** -  [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html) and [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
-8. **February 1st** -  Review PS1 and some practice problems
-9. **February 6th** - Finish [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
-10. **February 8th** -
+8. **February 1st** - [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
+9. **February 6th** - Finish [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)  and start  [Linear State Space Models](https://julia.quantecon.org/tools_and_techniques/linear_models.html)
+10. **February 8th** - Review problem sets
 11. **February 13th** -
 12. **February 15th** -
 13. **February 20th** - BREAK
