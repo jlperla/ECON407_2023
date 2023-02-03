@@ -105,7 +105,7 @@ We will cover the following topics, with the later topics only if time-permits.
 
 ### Linear State Space Models
 
-  - Topics include [Linear State Space Models](https://julia.quantecon.org/tools_and_techniques/linear_models.html)
+  - Topics include [Linear State Space Models](https://julia.quantecon.org/introduction_dynamics/linear_models.html)
   - At the end of this week you will understand how to describe processes such as asset pricing and consumption smoothing as linear-state space models, simulate them, and calculate present-discounted values using those stochastic processes.
 
 ### Permanent Income Model
@@ -115,7 +115,7 @@ We will cover the following topics, with the later topics only if time-permits.
 
 ### Markov Chains
 
-  - Topics include [Finite Markov Chains](https://julia.quantecon.org/tools_and_techniques/finite_markov.html)
+  - Topics include [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
   - At the end of the section you will understand how to describe discrete-state stochastic processes as Markov chains and simulate models of unemployment for a worker.
 
 ### Models of Unemployment
