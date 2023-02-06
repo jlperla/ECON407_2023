@@ -10,7 +10,11 @@
 
   - **Office Hours:** 9:15am-10:30am Fridays in IONA 206
   - **Class Location**: IONA 633 M/W 10-11:30am
-  - **TA**: hao.li@alumni.ubc.ca
+
+**TA**: igoraacarreira@gmail.com
+
+  - **Office Hours**: TBD
+
 ## Course Overview
 
 This is a course in computational tools used in macroeconomics.  You are expected to have some proficiency in Matlab, Python, Julia, and similar languages as fulfilled in the prerequisites (i.e., ECON 323, CPSC 103, CPSC 110, MATH 210, COMM 337).  Even intermediate knowledge of R is typically not sufficient.
