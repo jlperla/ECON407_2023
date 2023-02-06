@@ -44,10 +44,10 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 6. **January 25th** - FInished [Dynamics in One Dimension](https://julia.quantecon.org/introduction_dynamics/scalar_dynam.html) and started [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html)
 7. **January 30th** -  [AR1 Processes](https://julia.quantecon.org/introduction_dynamics/ar1_processes.html) and [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
 8. **February 1st** - [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)
-9. **February 6th** - Finish [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html)  and start  [Linear State Space Models](https://julia.quantecon.org/introduction_dynamics/linear_models.html)
-10. **February 8th** - Review problem sets
-11. **February 13th** -
-12. **February 15th** -
+9. **February 6th** - Finish [Wealth Distribution Dynamics](https://julia.quantecon.org/introduction_dynamics/wealth_dynamics.html) and start [Linear State Space Models](https://julia.quantecon.org/introduction_dynamics/linear_models.html)
+10. **February 8th** - Review problem sets 1 and 2
+11. **February 13th** - [Linear State Space Models](https://julia.quantecon.org/introduction_dynamics/linear_models.html)
+12. **February 15th** - Problem set review (and extra problems)
 13. **February 20th** - BREAK
 14. **February 22nd** - BREAK
 15. **February 27th** - **MIDTERM EXAM** class time.
