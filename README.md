@@ -21,7 +21,8 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 15th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). Basically just setup and a trivial notebook.
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf). Variations on the Geometric Series Code and some simulations.
 3. **Due Midnight PST on February 7th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
-4. February 27th:  **MIDTERM EXAM**
+4. **Due Midnight PST on February 14th** - Problem Set 3
+5. **February 27th:**  MIDTERM EXAM
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
