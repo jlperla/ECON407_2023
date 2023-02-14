@@ -22,7 +22,8 @@ See [here](syllabus.md) for more details
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.ipynb). Variations on the Geometric Series Code and some simulations.
 3. **Due Midnight PST on February 7th** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
-5. **February 27th:**  MIDTERM EXAM
+5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.ipynb)
+6. **February 27th:**  MIDTERM EXAM
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
@@ -56,7 +57,7 @@ The first few weeks will introduce Julia, and then we will move on to the core t
     - Optional: [detailed derivation of the ensembles](https://julia.quantecon.org/introduction_dynamics/linear_models.html#ensemble-interpretations), though the concept is essential.
     - Optional: [detailed derivations of ergodicity and stability](https://julia.quantecon.org/introduction_dynamics/linear_models.html#stationarity-and-ergodicity), though the concept is essential.
 12. **February 13th** - Review problem sets 1 and 2
-13. **February 15th** - Review problem set 3 and some of the extra problems
+13. **February 15th** - Review problem set 3 and some of the extra problems ([Midterm Practice Problems](/problem_sets/midterm_practice_problems.ipynb))
 14. **February 20th** - BREAK
 15. **February 22nd** - BREAK
 16. **February 27th** - **MIDTERM EXAM** class time
