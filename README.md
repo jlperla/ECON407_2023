@@ -61,8 +61,8 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 14. **February 20th** - BREAK
 15. **February 22nd** - BREAK
 16. **February 27th** - **MIDTERM EXAM** class time
-17. **March 1st** -
-18. **March 6th** -
+17. **March 1st** - [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html)
+18. **March 6th** - 
 19. **March 8th** -
 20. **March 13th** -
 21. **March 15th** -
