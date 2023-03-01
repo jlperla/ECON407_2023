@@ -62,6 +62,8 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 15. **February 22nd** - BREAK
 16. **February 27th** - **MIDTERM EXAM** class time
 17. **March 1st** - [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html)
+    - Optional: [details of the algebra in the derivation](https://julia.quantecon.org/dynamic_programming/perm_income.html#the-optimal-decision-rule) and [here](https://julia.quantecon.org/dynamic_programming/perm_income.html#hall-s-representation) [here](https://julia.quantecon.org/dynamic_programming/perm_income.html#appendix-the-euler-equation)
+    - Optional: [most of section on Alternative Representations](https://julia.quantecon.org/dynamic_programming/perm_income.html#alternative-representations) except for the results of the Hall representation.
 18. **March 6th** - 
 19. **March 8th** -
 20. **March 13th** -
