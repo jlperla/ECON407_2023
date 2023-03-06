@@ -64,7 +64,10 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 17. **March 1st** - [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html)
     - Optional: [details of the algebra in the derivation](https://julia.quantecon.org/dynamic_programming/perm_income.html#the-optimal-decision-rule) and [here](https://julia.quantecon.org/dynamic_programming/perm_income.html#hall-s-representation) [here](https://julia.quantecon.org/dynamic_programming/perm_income.html#appendix-the-euler-equation)
     - Optional: [most of section on Alternative Representations](https://julia.quantecon.org/dynamic_programming/perm_income.html#alternative-representations) except for the results of the Hall representation.
-18. **March 6th** - 
+    - Optional: the [second example](https://julia.quantecon.org/dynamic_programming/perm_income.html#example-2) which requires understanding more about the Kalman filter we skipped in the LSS material
+18. **March 6th** - Finish  [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html) and start the [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
+   - Optional: [rolling your own](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#rolling-our-own) and the details of [ergodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#ergodicity)
+   - Optional: [irreducibility and aperiodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#irreducibility-and-aperiodicity) beyond the simple examples we cover
 19. **March 8th** -
 20. **March 13th** -
 21. **March 15th** -
