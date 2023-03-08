@@ -68,14 +68,15 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 18. **March 6th** - Finish  [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html) and start the [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
    - Optional: [rolling your own](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#rolling-our-own) and the details of [ergodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#ergodicity)
    - Optional: [irreducibility and aperiodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#irreducibility-and-aperiodicity) beyond the simple examples we cover
-19. **March 8th** -
-20. **March 13th** -
-21. **March 15th** -
-22. **March 20th** -
-23. **March 22nd** -
-24. **March 27th** -
-25. **March 29th** -
-26. **April 3rd** -
-27. **April 5th** -
-28. **April 10th** -
-29. **April 12th** -
+19. **March 8th** - [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
+  - Additional [background on Markov chains](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/markov_chains_unemployment.pdf)
+21. **March 13th** -
+22. **March 15th** -
+23. **March 20th** -
+24. **March 22nd** -
+25. **March 27th** -
+26. **March 29th** -
+27. **April 3rd** -
+28. **April 5th** -
+29. **April 10th** -
+30. **April 12th** -
