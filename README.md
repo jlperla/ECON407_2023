@@ -67,11 +67,12 @@ The first few weeks will introduce Julia, and then we will move on to the core t
     - Optional: [most of section on Alternative Representations](https://julia.quantecon.org/dynamic_programming/perm_income.html#alternative-representations) except for the results of the Hall representation.
     - Optional: the [second example](https://julia.quantecon.org/dynamic_programming/perm_income.html#example-2) which requires understanding more about the Kalman filter we skipped in the LSS material
 18. **March 6th** - Finish  [The Permanent Income Model](https://julia.quantecon.org/dynamic_programming/perm_income.html) and start the [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
-   - Optional: [rolling your own](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#rolling-our-own) and the details of [ergodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#ergodicity)
-   - Optional: [irreducibility and aperiodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#irreducibility-and-aperiodicity) beyond the simple examples we cover
+    - Optional: [rolling your own](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#rolling-our-own) and the details of [ergodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#ergodicity)
+    - Optional: [irreducibility and aperiodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#irreducibility-and-aperiodicity) beyond the simple examples we cover
 19. **March 8th** - [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
-  - Additional [background on Markov chains](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/markov_chains_unemployment.pdf)
+    - Additional [background on Markov chains](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/markov_chains_unemployment.pdf)
 21. **March 13th** - Finish [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html) and basic asset pricing examples
+    - Additional [material on Markov Chains for asset pricing](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/stochastic_asset_pricing.pdf).  Only the first section.
 22. **March 15th** - Review of PS4 and Midterm
 23. **March 20th** -
 24. **March 22nd** -
