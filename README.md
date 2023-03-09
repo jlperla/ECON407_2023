@@ -24,6 +24,7 @@ See [here](syllabus.md) for more details
 4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.ipynb)
 6. **February 27th:**  MIDTERM EXAM
+4. **Due Midnight PST on March 14th** - [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
@@ -70,8 +71,8 @@ The first few weeks will introduce Julia, and then we will move on to the core t
    - Optional: [irreducibility and aperiodicity](https://julia.quantecon.org/introduction_dynamics/finite_markov.html#irreducibility-and-aperiodicity) beyond the simple examples we cover
 19. **March 8th** - [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html)
   - Additional [background on Markov chains](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/markov_chains_unemployment.pdf)
-21. **March 13th** -
-22. **March 15th** -
+21. **March 13th** - Finish [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html) and basic asset pricing examples
+22. **March 15th** - Review of PS4 and Midterm
 23. **March 20th** -
 24. **March 22nd** -
 25. **March 27th** -
