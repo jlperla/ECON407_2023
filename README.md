@@ -73,12 +73,14 @@ The first few weeks will introduce Julia, and then we will move on to the core t
     - Additional [background on Markov chains](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/markov_chains_unemployment.pdf)
 21. **March 13th** - Finish [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html) and basic asset pricing examples
     - Additional [material on Markov Chains for asset pricing](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/stochastic_asset_pricing.pdf).  Only the first section.
-22. **March 15th** - Review of PS4 and Midterm
-23. **March 20th** -
-24. **March 22nd** -
-25. **March 27th** -
-26. **March 29th** -
-27. **April 3rd** -
-28. **April 5th** -
-29. **April 10th** -
-30. **April 12th** -
+22. **March 15th** - Review of Midterm and PS4
+23. **March 20th** - Finish up code with [Finite Markov Chains](https://julia.quantecon.org/introduction_dynamics/finite_markov.html) and asset pricing.  Start [Lake Model of Employment and Unemployment](https://julia.quantecon.org/multi_agent_models/lake_model.html)
+    - Optional: [Fiscal Policy](https://julia.quantecon.org/multi_agent_models/lake_model.html#fiscal-policy-code)
+25. **March 22nd** - [Lake Model of Employment and Unemployment](https://julia.quantecon.org/multi_agent_models/lake_model.html)
+26. **March 27th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
+    - Optional: [Second method](https://julia.quantecon.org/dynamic_programming/mccall_model.html#computing-the-optimal-policy-take-2)
+27. **March 29th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
+28. **April 3rd** -
+29. **April 5th** -
+30. **April 10th** -
+31. **April 12th** - Review Session
