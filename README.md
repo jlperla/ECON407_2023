@@ -78,7 +78,8 @@ The first few weeks will introduce Julia, and then we will move on to the core t
     - Optional: [Fiscal Policy](https://julia.quantecon.org/multi_agent_models/lake_model.html#fiscal-policy-code)
 25. **March 22nd** - [Lake Model of Employment and Unemployment](https://julia.quantecon.org/multi_agent_models/lake_model.html)
 26. **March 27th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
-    - Optional: [Second method](https://julia.quantecon.org/dynamic_programming/mccall_model.html#computing-the-optimal-policy-take-2)
+    - Additional [background on the McCall model](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/search.pdf)
+    - Optional: [second method](https://julia.quantecon.org/dynamic_programming/mccall_model.html#computing-the-optimal-policy-take-2)
 27. **March 29th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
 28. **April 3rd** -
 29. **April 5th** -
