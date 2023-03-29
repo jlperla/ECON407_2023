@@ -80,7 +80,7 @@ The first few weeks will introduce Julia, and then we will move on to the core t
 26. **March 27th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
     - Additional [background on the McCall model](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/search.pdf)
     - Optional: [second method](https://julia.quantecon.org/dynamic_programming/mccall_model.html#computing-the-optimal-policy-take-2)
-27. **March 29th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html)
+27. **March 29th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html) and start [McCall with Separation](https://julia.quantecon.org/dynamic_programming/mccall_model_with_separation.html)
 28. **April 3rd** -
 29. **April 5th** -
 30. **April 10th** -
