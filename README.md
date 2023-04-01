@@ -81,7 +81,7 @@ The first few weeks will introduce Julia, and then we will move on to the core t
     - Additional [background on the McCall model](https://github.com/jlperla/ECON307_2023/blob/main/lecture_notes/search.pdf)
     - Optional: [second method](https://julia.quantecon.org/dynamic_programming/mccall_model.html#computing-the-optimal-policy-take-2)
 27. **March 29th** - [The McCall Search Model](https://julia.quantecon.org/dynamic_programming/mccall_model.html) and start [McCall with Separation](https://julia.quantecon.org/dynamic_programming/mccall_model_with_separation.html)
-28. **April 3rd** -
-29. **April 5th** -
-30. **April 10th** -
-31. **April 12th** - Review Session
+28. **April 3rd** - Finish [McCall with Separation](https://julia.quantecon.org/dynamic_programming/mccall_model_with_separation.html) and start [Finite State Asset Pricing](https://julia.quantecon.org/multi_agent_models/markov_asset.html)
+29. **April 5th** - [Finite State Asset Pricing](https://julia.quantecon.org/multi_agent_models/markov_asset.html)
+30. **April 10th** - **HOLIDAY**
+31. **April 12th** - Review PS5
