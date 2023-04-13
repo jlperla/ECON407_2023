@@ -24,7 +24,9 @@ See [here](syllabus.md) for more details
 4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.ipynb)
 6. **February 27th:**  MIDTERM EXAM
-4. **Due Midnight PST on March 14th** - [Problem Set 4](/problem_sets/problem_set_4.ipynb)
+7. **Due Midnight PST on March 14th** - [Problem Set 4](/problem_sets/problem_set_4.ipynb)
+7. **Due Midnight PST on April 12th, not graded** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
+9. [Final Practice Problems](/problem_sets/final_practice_problems.ipynb)
 
 Note that the midterm is the day after spring-break and cannot be moved as it requires booking a computer lab.  Travel schedules are not a valid excuse for missing the midterm.
 
